@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador</title>
+</head>
+<body>
+
+    <h1>Página Inicial do Administrador</h1>
+
+    <p>Bem-vindo, administrador!</p>
+
+    <h2>Menu Administrativo</h2>
+
+    <ul>
+        <li><a href="#">Cadastrar usuário</a></li>
+        <li><a href="#">Consultar usuários</a></li>
+        <li><a href="#">Alterar usuário</a></li>
+        <li><a href="#">Excluir usuário</a></li>
+    </ul>
+
+    <br>
+
+    <a href="index.html">Sair</a>
+
+</body>
+</html>
