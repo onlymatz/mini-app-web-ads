@@ -1,4 +1,4 @@
-# ❌ Jogo da Velha Avançado - React + Vite ⭕
+# ❌ Jogo da Velha Avançado ⭕
 
 Um jogo da velha moderno desenvolvido com **React** e **Vite**, que conta com um sistema completo de autenticação e controle de rotas baseado em três tipos de perfis: **Comum**, **Aviso** (Restrito) e **Administrador**.
 
