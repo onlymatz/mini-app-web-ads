@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operador</title>
+</head>
+<body>
+
+    <h1>Página Inicial do Operador</h1>
+
+    <p>Bem-vindo, operador!</p>
+
+    <h2>Menu do Operador</h2>
+
+    <ul>
+        <li><a href="#">Consultar informações</a></li>
+        <li><a href="#">Realizar operação</a></li>
+    </ul>
+
+    <br>
+
+    <a href="index.html">Sair</a>
+
+</body>
+</html>
